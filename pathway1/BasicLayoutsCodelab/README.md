@@ -1,37 +1,9 @@
-# Basic Layouts in Compose Codelab
+> [코드랩 - Basic layouts in Compose](https://developer.android.com/codelabs/jetpack-compose-layouts?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fjetpack-compose-for-android-developers-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-layouts#0) <- 진행중
 
-This folder contains the source code for
-the [Basic Layouts in Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-layouts)
+#### 코드랩 소개
+- 컴포즈를 사용해서 기본적인 레이아웃들을 구현하는 방법을 배우게 됩니다. `Surfaces`, `Rows`, `Columns`, `Modifiers` 의 `padding`, `fillMaxWidth`, `size` 등을 사용해 봅시다.
+- 하나의 화면을 여러 섹션으로 나누어서 생각하면 UI를 구현하는데 도움이 됩니다.
+- <img width="225" alt="image" src="https://user-images.githubusercontent.com/31889335/202909914-dbb7396b-7ebe-4c94-8450-d9495bb66d30.png"> <img width="300" alt="image" src="https://user-images.githubusercontent.com/31889335/202909933-c37a0312-28b3-4ec6-bd8c-e11802f85ec9.png"> <img width="356" alt="image" src="https://user-images.githubusercontent.com/31889335/202909956-024bd8a7-80c6-4a90-b110-9e9fcea9863d.png"> <img width="105" alt="image" src="https://user-images.githubusercontent.com/31889335/202909963-3df63171-8f17-4bd6-bf52-5badcd9e11b8.png"> <img width="276" alt="image" src="https://user-images.githubusercontent.com/31889335/202909971-ab892d09-36ca-4fa6-89e7-a8551fb2807d.png">
 
-## License
-
-```
-Copyright 2022 The Android Open Source Project
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
-
-## Image asset attributions
-
-[fc1_short_mantras.jpg](https://www.pexels.com/photo/body-of-water-view-1825206/) - Elizaveta Kozorezova
-[fc2_nature_meditations.jpg](https://www.pexels.com/photo/photo-of-green-leaves-3571551/) - Nothing Ahead
-[fc3_stress_and_anxiety.jpg](https://www.pexels.com/photo/aerial-view-of-body-of-water-1557238/) - Jim
-[fc4_self_massage.jpg](https://www.pexels.com/photo/photography-of-stones-1029604/) - Scott Webb
-[fc5_overwhelmed.jpg](https://www.pexels.com/photo/white-clouds-3560044/) - Ruvim
-[fc6_nightly_wind_down.jpg](https://www.pexels.com/photo/time-lapse-photo-of-stars-on-night-924824/) - Jakub Novacek
-[ab1_inversions.jpg](https://www.pexels.com/photo/low-angle-view-of-woman-relaxing-on-beach-against-blue-sky-317157/) - Chevanon Photography
-[ab2_quick_yoga.jpg](https://www.pexels.com/photo/photo-of-woman-stretching-her-body-1812964/) - Agung Pandit Wiguna
-[ab3_stretching.jpg](https://www.pexels.com/photo/photo-of-women-stretching-together-4056723/) - Cliff Booth
-[ab4_tabata.jpg](https://www.pexels.com/photo/fashion-man-people-art-4662438/) - Elly Fairytale
-[ab5_hiit.jpg](https://www.pexels.com/photo/man-wearing-white-pants-under-blue-sky-999309/) - The Lazy Artist Gallery
-[ab6_pre_natal_yoga.jpg](https://www.pexels.com/photo/woman-doing-yoga-396133/) - freestocks.org
+#### Modifiers
+- 이어서..
