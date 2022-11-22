@@ -1,4 +1,4 @@
-> [코드랩 - Jetpack Compose basics](mpose-basics?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fjetpack-compose-for-android-developers-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics#0)
+> [코드랩 - Jetpack Compose basics](https://developer.android.com/codelabs/jetpack-compose-basics?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fjetpack-compose-for-android-developers-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fjetpack-compose-basics#3)
 
 #### 코드랩 소개
 - 컴포즈를 맛보기 위해 `컴포저블 함수 만들기`, `컴포저블 함수 내에서 state 관리하기`, `리스트 만들기`, `애니메이션 구현하기`, `스타일과 테마 추가하기` 등을 배워봅시다. 리스트가 있고, 리스트의 각 아이템에 펼쳐지는 애니메이션이 적용된 화면을 구현해 봅시다.  
